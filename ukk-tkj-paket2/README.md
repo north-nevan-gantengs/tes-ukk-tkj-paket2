@@ -1,4 +1,4 @@
-# UKK TKJ Paket 2 – Migrasi Cloud Terenkripsi, Hardening VM & Disaster Recovery
+# Latihan UKK TKJ Paket 2 – Migrasi Cloud Terenkripsi, Hardening VM & Disaster Recovery
 
 Dokumentasi praktik Uji Kompetensi Keahlian (UKK) Teknik Komputer dan Jaringan, Tahun Ajaran 2026/2027.
 Dikerjakan oleh **Nevan Kaindra Rusdi** – SMK Bina Informatika.
